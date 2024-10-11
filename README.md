@@ -7,7 +7,7 @@ In this repository, I will learn some skills for my development.
 <br>
 so 见怪不怪
 <br>
-xixi.
+xixi.<br>
 in this sector, I will learn how to use github and record some mini skills.
 <br>
-first, "<br>"in this is whitespace. it is euqal to html's usage
+first, "br"in this is whitespace. it is euqal to html's usage
