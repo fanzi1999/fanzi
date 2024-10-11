@@ -1,0 +1,2 @@
+# fanzi
+My personal repository
